@@ -26,7 +26,7 @@ This project covers all four focus areas for the Hackathon:
 - **API:** Squad (Virtual Accounts, Transfers)
 - **Database:** Firebase / MongoDB
 
-- The Team
+## The Team
 - **Emmanuel** (Full Stack Developer)
 - **Pelumi** (UI/UX Designer)
 - **Ogunsanwo** (Researcher)
