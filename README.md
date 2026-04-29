@@ -29,7 +29,7 @@ This project covers all four focus areas for the Hackathon:
 ## The Team
 - **Emmanuel** (Full Stack Developer)
 - **Pelumi** (UI/UX Designer)
-- **Ogunsanwo** (Researcher)
+- **Ogunsanwo** (Product owner)
 - **Boluwatife** (Operations Lead)
 
 # Status
