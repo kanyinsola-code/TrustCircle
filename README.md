@@ -2,8 +2,8 @@
 AI-powered group savings platform for GTCO Squad Hackathon 3.0
 # The Problem
 In traditional Ajo, when a member defaults, the next person suffers. Coordinators use Excel and there is no safety net, no credit tracking, and no automation. Trust is easily broken.
-# Our Solution
-TrustCircle automates the process using Squad's APIs. We hold the funds securely in a Squad virtual account, automate the payout when it's your turn, and use an AI Trust Score to build financial reputation. Our Emergency Swap feature ensures the circle never breaks if someone can't pay.
+## Solution
+TrustCircle automates everything. When a member pays, Squad virtual accounts collect it. When it's their turn, money auto-pays to their bank. If someone defaults, Emergency Swap auto-covers the amount so the next person gets paid on time. The defaulter then owes TrustCircle and repays later. An AI trust score tracks every member — on-time payments raise your score, defaults lower it.
 
 ## Key Features
 - **Automated Ajo:** Auto-collects contributions and pays the next person on schedule via Squad.
@@ -21,10 +21,10 @@ This project covers all four focus areas for the Hackathon:
 4.  **Financial Innovation:** Transforming the traditional Nigerian Ajo into a smart system.
 
 ## Tech Stack
-- **Frontend:** React / Next.js
-- **Backend:** Node.js / Express
-- **API:** Squad (Virtual Accounts, Transfers)
-- **Database:** Firebase / MongoDB
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js
+- API: Squad
+- Database: Firebase
 
 ## The Team
 - **Emmanuel** (Full Stack Developer)
